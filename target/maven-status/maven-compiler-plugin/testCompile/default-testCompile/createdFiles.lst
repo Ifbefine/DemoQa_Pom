@@ -1,0 +1,7 @@
+com\demoqa\tests\LoginTest.class
+com\demoqa\tests\InterActionsTests.class
+com\demoqa\core\TestBase.class
+com\demoqa\tests\WidgetsTests.class
+com\demoqa\tests\PracticeFormTest.class
+com\demoqa\tests\AlertsFrameWindowsTests.class
+com\demoqa\tests\ElementsTests.class
